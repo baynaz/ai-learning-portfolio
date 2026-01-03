@@ -1,4 +1,4 @@
-# translate_app.py
+# translation_app.py
 import streamlit as st
 from deep_translator import GoogleTranslator
 from gtts import gTTS #Converts text into spoken audio
